@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "to get the data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharatRav/react-flipcart-clone.git"
+  },
+  "author": "bharat rav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharatRav/react-flipcart-clone/issues"
+  },
+  "homepage": "https://github.com/BharatRav/react-flipcart-clone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
